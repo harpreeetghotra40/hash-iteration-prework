@@ -7,4 +7,5 @@
 def happy_birthday(birthday_kids)
   birthday_kids.each do |keys, value|
     "Happy Birthday #{keys}! You are now #{value} years old!"
+  end
 end
